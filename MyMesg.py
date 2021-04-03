@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO,
 class MyMesg:
 
     baseMesgUrl = 'https://sc.ftqq.com/'
-    sckey = 'SCU142685Tfd06f72db3371db1938bb69054c0bcef5fed785b32f38'
+    sckey = ''
 
     def __init__(self, title):
         self.title = title
